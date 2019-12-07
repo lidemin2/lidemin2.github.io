@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="55fc86a5-49ae-46be-8321-e172b8c66f47" name="http://ftp6344360.host104.sanfengyun.cn" url="http://ftp6344360.host104.sanfengyun.cn">
+        <fileTransfer host="43.226.149.104" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
